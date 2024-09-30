@@ -1,5 +1,15 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO_SvDm52O5jjXfyIRaYS4jMryTUjLG5WQLe4TSNMLk192OfANfeZArRgfkqxmA5dLx6uwVadh6htndsuUr02ucHJb_XFgOmMkZzknO9pKjwm3rw4o5rvyQd9GVCZr9exLGPt07iIUS3bmK05x979KpATfY9Wr7URioO_O2mJ6ADc3hVIBsMAT9Cm4JT1n/s16000-rw/Encrypted%20Notepad.webp");
+}
+
+
 .text-editor-header {
-    background-color: paleturquoise;
+    background-color: black;
+
     
 }
 
@@ -12,3 +22,11 @@
 .card {
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
+.fa-solid{
+    cursor: grab;
+    color: white;
+}
+ img{
+    width: 150px;
+    height: 150px;
+ }
